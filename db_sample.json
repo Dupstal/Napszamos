@@ -1,0 +1,42 @@
+{
+  "songs": [
+    {
+      "owner": "Csatári Zoli",
+      "id": "280419535079604225",
+      "link": ""
+    },
+    {
+      "owner": "Nándi",
+      "id": "471796315626405899",
+      "link": ""
+    },
+    {
+      "owner": "Kincses Gabi",
+      "id": "821842317128368128",
+      "link": ""
+    },
+    {
+      "owner": "Gergő",
+      "id": "697364440831623188",
+      "link": ""
+    },
+    {
+      "owner": "Gábor",
+      "id": "405777940719206400",
+      "link": ""
+    },
+    {
+      "owner": "Nóri",
+      "id": "558793072960340018",
+      "link": ""
+    },
+    {
+      "owner": "Varga Zoli",
+      "id": "697394541082443826",
+      "link": ""
+    }
+  ],
+  "lastDayUsed": "",
+  "currentIndex": 0,
+  "link": ""
+}
